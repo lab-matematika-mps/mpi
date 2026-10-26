@@ -60,6 +60,7 @@ export default function Home() {
             type="submit"
             className="w-full mt-2 bg-indigo-400 hover:bg-indigo-500 text-white py-4 rounded-3xl font-black text-lg active:scale-90 transition-all shadow-[6px_6px_12px_rgba(0,0,0,0.15),-6px_-6px_12px_rgba(255,255,255,0.8)]"
           >
+            
             MULAI PETUALANGAN
           </button>
         </form>
